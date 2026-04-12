@@ -15,3 +15,7 @@ Sovellus mahdollistaa harjoitusten lisäämisen ja tarkastelun yksinkertaisella 
 ## Tekijät
 
 Projektin ovat toteuttaneet kurssin opiskelijat tiimityönä.
+
+## Graafinen ulkonäkö
+
+Mahdollisuus valita dark mode
